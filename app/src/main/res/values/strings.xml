@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">A+ Code Test</string>
+    <string name="no_internet">There is no internet!</string>
+    <string name="network_error">Something went wrong!</string>
+    <string name="error_dialog_title">Error Response</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="user_list">User List</string>
+    <string name="detail">Detail</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone No</string>
+    <string name="website">Website</string>
+</resources>
