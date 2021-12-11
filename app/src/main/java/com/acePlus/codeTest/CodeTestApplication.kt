@@ -5,7 +5,7 @@ import android.content.Context
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-class CodeTestApplication: Application() {
+class CodeTestApplication : Application() {
     override fun onCreate() {
         super.onCreate()
         context = applicationContext

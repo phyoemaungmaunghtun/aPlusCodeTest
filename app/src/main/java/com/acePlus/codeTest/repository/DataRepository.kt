@@ -7,7 +7,7 @@ import javax.inject.Inject
 class DataRepository @Inject constructor(private val remoteRepository: RemoteData) :
     RemoteDataSource {
     /**
-     * Network request
+     * Network request by repository pattern
      */
     override suspend fun requestApi() = remoteRepository.requestApi()
 }
